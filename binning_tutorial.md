@@ -29,3 +29,9 @@ Metagenome binning using MetaBAT
 
 5. So you learned about how to assemble sequences yesterday and assembled some contigs, 
 for today's tutorial, we need a full assembled file. They are [here]
+
+6. Now let's do some binning!
+    ```
+    cd ~/data
+     ~/metabat/bin/runMetaBat.sh final.contigs.fa SRR492065.sam.bam.sorted.bam 
+    ``` 
