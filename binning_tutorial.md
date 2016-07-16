@@ -3,11 +3,11 @@ Metagenome binning using MetaBAT
 
 [MetaBAT, an efficient tool for accurately reconstructing single genomes from complex microbial communities] (https://peerj.com/articles/1165/)
 
-1. Initiate an Amazon EC2 instance if you don't have one launched already
-   a. ubuntu
-   b. m3.large
+1. Initiate an Amazon EC2 instance if you don't have one launched already   
+   a. ubuntu   
+   b. m3.large    
 
-2. Where to get MetaBAT? 
+2. Where to get MetaBAT?    
    A: MetaBAT is deposited in BitBucket (remote repository like GitHub)
    ```
    sudo apt-get install git    ## EC2 does not have git installed by default
@@ -28,4 +28,4 @@ Metagenome binning using MetaBAT
    ```
 
 5. So you learned about how to assemble sequences yesterday and assembled some contigs, 
-for today's tutorial, we need a full assembled file. They are `here
+for today's tutorial, we need a full assembled file. They are [here]
