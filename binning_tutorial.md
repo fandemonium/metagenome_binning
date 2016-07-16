@@ -1,7 +1,7 @@
 Metagenome binning using MetaBAT
 ---
 
-`MetaBAT, an efficient tool for accurately reconstructing single genomes from complex microbial communities <https://peerj.com/articles/1165/>`
+[MetaBAT, an efficient tool for accurately reconstructing single genomes from complex microbial communities] (https://peerj.com/articles/1165/)
 
 1. Initiate an Amazon EC2 instance if you don't have one launched already
    a. ubuntu
